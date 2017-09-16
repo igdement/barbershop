@@ -1,3 +1,2 @@
-# gllacy
-GllacyApp
-FirstCommit
+# barbershop
+BarbershopApp
